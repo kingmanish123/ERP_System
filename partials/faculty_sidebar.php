@@ -229,10 +229,10 @@ p{
                             <i class='bx bx-message-square-detail nav__icon' ></i>
                             <span class="nav__name">Fill Attendance</span>
                         </a>
-                        <a href="faculty_fill_marks.php" class="nav__link">
+                        <!-- <a href="faculty_fill_marks.php" class="nav__link">
                             <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">Fill Marks</span>
-                        </a>
+                        </a> -->
                         <a href="faculty_upload_notes.php" class="nav__link">
                             <i class='bx bx-bar-chart-alt-2 nav__icon' ></i>
                             <span class="nav__name">Upload Notes</span>

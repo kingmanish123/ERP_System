@@ -220,27 +220,27 @@ p{
                             <span class="nav__name">Dashboard</span>
                         </a>
                         <a href="student_profile.php" class="nav__link">
-                            <i class='bx bx-stopwatch nav__icon'></i>
+                        <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">My Profile</span>
                         </a>
                         <a href="student_attendence.php" class="nav__link">
-                            <i class='bx bx-message-square-detail nav__icon' ></i>
+                        <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">Attendence</span>
                         </a>
-                        <a href="student_marks.php" class="nav__link">
+                        <!-- <a href="student_marks.php" class="nav__link">
                             <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">Marks</span>
-                        </a>
+                        </a> -->
                         <a href="student_faculty.php" class="nav__link">
-                            <i class='bx bx-bar-chart-alt-2 nav__icon' ></i>
+                        <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">Faculty Profile</span>
                         </a>
                         <a href="student_notes.php" class="nav__link">
-                            <i class='bx bx-bar-chart-alt-2 nav__icon' ></i>
+                        <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">Notes</span>
                         </a>
                         <a href="student_timetable.php" class="nav__link">
-                            <i class='bx bx-bar-chart-alt-2 nav__icon' ></i>
+                        <i class='bx bx-list-ul nav__icon'></i>
                             <span class="nav__name">Time Table</span>
                         </a>
                     </div>
